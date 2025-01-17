@@ -1,12 +1,8 @@
-# PRODIGY_CS_04
-
-Task 4 : Task-04 Simple Keylogger
+# Simple Keylogger
 
 PROBLEM STATEMENT : Create a basic keylogger program that records and logs keystrokes. 
 Focus on logging the keys pressed and saving them to a file. 
 Note: Ethical considerations and permissions are crucial for projects involving keyloggers.
-
-VIDEO LINK = > https://imagekit.io/tools/asset-public-link?detail=%7B%22name%22%3A%22blackbox%20-%20task4%20-%20Visual%20Studio%20Code%202025-01-10%2000-46-26.mp4%22%2C%22type%22%3A%22video%2Fmp4%22%2C%22signedurl_expire%22%3A%222028-01-09T19%3A55%3A38.248Z%22%2C%22signedUrl%22%3A%22https%3A%2F%2Fmedia-hosting.imagekit.io%2F%2F326c2bf3e4d24e7d%2Fblackbox%2520-%2520task4%2520-%2520Visual%2520Studio%2520Code%25202025-01-10%252000-46-26.mp4%3FExpires%3D1831060538%26Key-Pair-Id%3DK2ZIVPTIP2VGHC%26Signature%3DeXu2XorEhaGcXwucazbdS7X3We6fEu9VBeRJN8vz7HwXLeS9mu~2r2P9gguuzzvbzPRNmp1kxCwBBaVpZlJbCVhrHaCSr62ztZTCtam7nXA9pIAy66rEqeipkHCo9QsWpCN35j6oRaNdRdzKEcp6CVpGA2yjMEWLYty5-~G19laJLIh2ZXmAKy22TH1ZKsYDnidgpcc7wUTZA39qtP8Nj9SxQD98n3vS0~dsazKyVtJHa93UjKHGwkAuHdVb4nSFn0XaD6ECcN16RjadQx3sYTVACyGqfaoLaYITEg~BjVp9uvAEtHWfpSeuv65RuCPd6pnhMNnQ0GwMkMPFX8yPFg__%22%7D
 
 How the Keylogger Works:
 
